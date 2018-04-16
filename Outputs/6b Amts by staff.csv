@@ -1,0 +1,2 @@
+first_name,last_name,sum(payment.amount)
+Mike,Hillyer,67416.51
